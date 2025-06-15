@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Instance folder
+instance/
+
+# Test cache
+.pytest_cache/
+
+# Logs
+logs/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Uploads folder
+uploads/ 
